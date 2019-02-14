@@ -1,1 +1,3 @@
 # restapinodejs
+
+`node server.js`
